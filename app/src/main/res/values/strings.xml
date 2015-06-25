@@ -3,4 +3,239 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="serach_hint">空心菜 苦瓜</string>
+    <string-array name="cold">
+        <item>蕹菜（空心菜）</item>
+        <item>竹筍</item>
+        <item>瓢瓜（葫蘆）</item>
+        <item>苦瓜</item>
+        <item>冬瓜</item>
+        <item>番茄</item>
+        <item>銀耳</item>
+        <item>海帶</item>
+        <item>海藻</item>
+        <item>金針菇</item>
+        <item>鮮蘑菇</item>
+        <item>荸薺</item>
+        <item>慈菇（茨菰）</item>
+        <item>蘿蔔</item>
+        <item>小麥草</item>
+        <item>龍葵</item>
+        <item>西葫蘆</item>
+        <item>馬齒莧</item>
+        <item>蓴菜</item>
+        <item>苦菊菜</item>
+        <item>生蓮藕</item>
+        <item>蕨菜</item>
+        <item>蕨根粉</item>
+        <item>蘆筍</item>
+        <item>酸菜</item>
+
+        <item>柿子</item>
+        <item>柿餅</item>
+        <item>香蕉</item>
+        <item>楊桃</item>
+        <item>奇異果（獼猴桃）</item>
+        <item>西瓜</item>
+        <item>香瓜</item>
+        <item>哈密瓜</item>
+        <item>梨</item>
+        <item>鳳梨（菠蘿）</item>
+        <item>甘蔗</item>
+        <item>椰子汁</item>
+        <item>蓮子心</item>
+        <item>檳榔</item>
+        <item>檸檬</item>
+        <item>柚子</item>
+        <item>橘子</item>
+        <item>臍橙</item>
+        <item>柳丁（橙子）</item>
+        <item>蓮霧</item>
+
+
+        <item>冰品</item>
+        <item>綠茶</item>
+        <item>味精（味素）</item>
+        <item>人工飲料</item>
+        <item>化學食品</item>
+        <item>化學藥品</item>
+        <item>菊花</item>
+        <item>決明子</item>
+        <item>糖精</item>
+        <item>白糖</item>
+        <item>冰糖</item>
+    </string-array>
+
+
+    <string-array name="cool">
+        <item>大麥</item>
+        <item>蕎麥</item>
+        <item>綠豆</item>
+        <item>薏米</item>
+        <item>黃豆</item>
+        <item>西谷米</item>
+        <item>大米</item>
+
+
+        <item>莧菜</item>
+        <item>菠菜</item>
+        <item>萵苣</item>
+        <item>青江菜</item>
+        <item>A菜</item>
+        <item>茄子</item>
+        <item>絲瓜</item>
+        <item>黃瓜</item>
+        <item>茭白筍</item>
+        <item>油菜</item>
+        <item>白花菜</item>
+        <item>青椒(柿子椒)</item>
+        <item>苤藍(甘藍)</item>
+        <item>金針花(黃花菜)</item>
+        <item>黑木耳</item>
+        <item>竹蓀(竹笙)</item>
+        <item>腐竹</item>
+        <item>豆腐(含皮</item>
+        <item>干</item>
+        <item>乳)</item>
+        <item>白菜</item>
+        <item>紫菜薹</item>
+        <item>黃心菜</item>
+        <item>生菜</item>
+        <item>油麥菜</item>
+        <item>芹菜</item>
+        <item>豆芽菜</item>
+        <item>秋葵</item>
+        <item>牛蒡</item>
+        <item>猴頭菇</item>
+        <item>香菇</item>
+        <item>菱角</item>
+        <item>蕃薯（紅薯）</item>
+
+        <item>金桔</item>
+        <item>枇杷</item>
+        <item>蘋果</item>
+        <item>無花果</item>
+        <item>芒果</item>
+        <item>火龍果</item>
+        <item>百合</item>
+        <item>桑葚</item>
+        <item>菠蘿蜜</item>
+        <item>草莓</item>
+        <item>杏</item>
+        <item>釋迦</item>
+        <item>葡萄（乾）</item>
+        <item>龍眼（乾）</item>
+        <item>木瓜</item>
+        <item>櫻桃</item>
+        <item>酪梨</item>
+        <item>楊梅</item>
+        <item>冬棗</item>
+        <item>桃</item>
+        <item>李子</item>
+        <item>番石榴</item>
+        <item>石榴</item>
+        <item>荔枝</item>
+        <item>橄欖</item>
+        <item>佛手柑</item>
+        <item>榴槤</item>
+        <item>山楂</item>
+        <item>大棗</item>
+    </string-array>
+
+    <string-array name="Usually">
+        <item>小米</item>
+        <item>玉米</item>
+        <item>白豆</item>
+        <item>豌豆</item>
+        <item>扁豆</item>
+        <item>蠶豆</item>
+        <item>赤小豆</item>
+        <item>黑豆</item>
+        <item>燕麥</item>
+
+        <item>胡蘿蔔</item>
+        <item>豇豆</item>
+        <item>豆角</item>
+        <item>豆豉</item>
+        <item>芋頭</item>
+        <item>包心菜(圓白菜</item>
+        <item>高麗菜)</item>
+        <item>芥藍菜</item>
+        <item>綠花菜(西蘭花)</item>
+        <item>蓋菜(芥菜)</item>
+        <item>雪裡紅</item>
+        <item>青菜頭(榨菜頭</item>
+        <item>鮮榨菜)</item>
+        <item>馬鈴薯</item>
+        <item>地瓜葉</item>
+        <item>乾蘑菇</item>
+        <item>烤麩</item>
+        <item>麵筋（油麵筋</item>
+        <item>水麵筋）</item>
+        <item>茼蒿（蒿子稈）</item>
+        <item>南瓜</item>
+        <item>山藥</item>
+        <item>蓮藕（熟吃）</item>
+
+        <item>南瓜子</item>
+        <item>葵花子</item>
+        <item>芡實</item>
+        <item>蓮子</item>
+        <item>花生</item>
+        <item>栗子</item>
+
+        <item>各種蛋</item>
+        <item>黃醬</item>
+        <item>麵醬</item>
+    </string-array>
+
+
+    <string-array name="Warm">
+        <item>小米</item>
+        <item>玉米</item>
+        <item>白豆</item>
+        <item>豌豆</item>
+        <item>扁豆</item>
+        <item>蠶豆</item>
+        <item>赤小豆</item>
+        <item>黑豆</item>
+        <item>燕麥</item>
+        <item>香椿</item>
+        <item>九層塔</item>
+        <item>香菜（芫荽）</item>
+        <item>洋蔥</item>
+        <item>蔥</item>
+        <item>大蒜</item>
+        <item>蒜苗（蒜薹）</item>
+        <item>韭菜（薹花）</item>
+        <item>松子仁</item>
+        <item>核桃仁</item>
+        <item>杏仁</item>
+        <item>開心果</item>
+        <item>香榧子</item>
+        <item>榛子</item>
+        <item>炒栗子</item>
+        <item>炒花生</item>
+        <item>炒瓜子</item>
+        <item>炒腰果</item>
+        <item>純芝麻醬</item>
+    </string-array>
+
+
+    <string-array name="hot">
+
+        <item>辣椒</item>
+        <item>芥末</item>
+        <item>薑</item>
+        <item>五香粉</item>
+        <item>咖哩粉</item>
+        <item>胡椒粉</item>
+        <item>茴香菜</item>
+        <item>小茴香</item>
+        <item>花椒</item>
+        <item>肉桂（桂皮）</item>
+        <item>丁香</item>
+        <item>八角（大料）</item>
+    </string-array>
 </resources>
